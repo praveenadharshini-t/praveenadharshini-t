@@ -23,7 +23,7 @@ I build data-driven solutions using SQL, Python, and Power BI to analyze dataset
 - Used Power Query for data cleaning and DAX for calculated measures
 👉 [View Project](https://github.com/praveenadharshini-t/supermarket-sales-dashboard-powerbi)
 ## 📊 Dashboard Preview
-![Supermarket Dashboard](https://github.com/praveenadharshini-t/supermarket-sales-dashboard-powerbi/blob/main/Supermarket_sales_dashboard.png?raw=true)
+![Supermarket Dashboard](https://github.com/praveenadharshini-t/supermarket-sales-dashboard-powerbi/blob/main/supermarket_sales_dashboard.png?raw=true)
 
 ## 🛠️ Skills
 - SQL  

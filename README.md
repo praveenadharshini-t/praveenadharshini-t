@@ -3,6 +3,7 @@
 ## Data Analyst | SQL | Power BI | Python | Excel
 I build data-driven solutions using SQL, Python, and Power BI to analyze datasets and generate actionable business insights.
 
+
 ## 🚀 Projects
 ### 📈 Retail Sales Analysis (SQL)
 - Analyzed retail sales dataset using SQL (JOINs, aggregations, filtering)  
@@ -21,6 +22,8 @@ I build data-driven solutions using SQL, Python, and Power BI to analyze dataset
 - Created visualizations for sales trends, category analysis, and regional insights  
 - Used Power Query for data cleaning and DAX for calculated measures
 👉 [View Project](https://github.com/praveenadharshini-t/supermarket-sales-dashboard-powerbi)
+## 📊 Dashboard Preview
+![Supermarket Dashboard](https://github.com/praveenadharshini-t/supermarket-sales-dashboard-powerbi/blob/main/Supermarket_sales_dashboard.png?raw=true)
 
 ## 🛠️ Skills
 - SQL  

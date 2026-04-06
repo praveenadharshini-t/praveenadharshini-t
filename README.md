@@ -5,6 +5,14 @@ I build data-driven solutions using SQL, Python, and Power BI to analyze dataset
 
 
 ## 🚀 Projects
+### 📊 Supermarket Sales Dashboard (Power BI)
+- Built an interactive dashboard to track KPIs like total sales, revenue, and product performance  
+- Created visualizations for sales trends, category analysis, and regional insights  
+- Used Power Query for data cleaning and DAX for calculated measures
+👉 [View Project](https://github.com/praveenadharshini-t/supermarket-sales-dashboard-powerbi)
+## 📊 Dashboard Preview
+![Supermarket Dashboard](https://github.com/praveenadharshini-t/supermarket-sales-dashboard-powerbi/blob/main/supermarket_sales_dashboard.png?raw=true)
+
 ### 📈 Retail Sales Analysis (SQL)
 - Analyzed retail sales dataset using SQL (JOINs, aggregations, filtering)  
 - Identified top-performing products, revenue trends, and customer patterns  
@@ -17,13 +25,6 @@ I build data-driven solutions using SQL, Python, and Power BI to analyze dataset
 - Generated insights on content growth and audience preferences
 👉 [View Project](https://github.com/praveenadharshini-t/netflix-data-analysis-python)
 
-### 📊 Supermarket Sales Dashboard (Power BI)
-- Built an interactive dashboard to track KPIs like total sales, revenue, and product performance  
-- Created visualizations for sales trends, category analysis, and regional insights  
-- Used Power Query for data cleaning and DAX for calculated measures
-👉 [View Project](https://github.com/praveenadharshini-t/supermarket-sales-dashboard-powerbi)
-## 📊 Dashboard Preview
-![Supermarket Dashboard](https://github.com/praveenadharshini-t/supermarket-sales-dashboard-powerbi/blob/main/supermarket_sales_dashboard.png?raw=true)
 
 ## 🛠️ Skills
 - SQL  
@@ -32,6 +33,7 @@ I build data-driven solutions using SQL, Python, and Power BI to analyze dataset
 - Excel  
 - Data Analysis  
 - Data Visualization  
+
 
 ## 📫 Connect with me
 - LinkedIn: www.linkedin.com/in/praveena-dharshini-t-42462322a

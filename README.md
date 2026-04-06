@@ -1,23 +1,25 @@
 # Hi, I'm Praveena Dharshini 👋
 
 ## Data Analyst | SQL | Power BI | Python | Excel
-I analyze data to uncover insights and support data-driven decision making.  
-Skilled in SQL, Python, and Power BI with hands-on experience in real-world datasets.
+I build data-driven solutions using SQL, Python, and Power BI to analyze datasets and generate actionable business insights.
 
 ## 🚀 Projects
 ### 📈 Retail Sales Analysis (SQL)
-- Analyzed sales data using SQL queries
-- Identified top-performing products and trends
+- Analyzed retail sales dataset using SQL (JOINs, aggregations, filtering)  
+- Identified top-performing products, revenue trends, and customer patterns  
+- Extracted insights to support business decision-making
 👉 [View Project](https://github.com/praveenadharshini-t/retail-sales-analysis-sql)
 
 ### 🎬 Netflix Data Analysis (Python)
-- Performed EDA using Pandas
-- Analyzed content trends and genre distribution
+- Performed data cleaning and EDA using Pandas  
+- Analyzed content trends, genre distribution, and release patterns  
+- Generated insights on content growth and audience preferences
 👉 [View Project](https://github.com/praveenadharshini-t/netflix-data-analysis-python)
 
 ### 📊 Supermarket Sales Dashboard (Power BI)
-- Built interactive dashboard to track sales performance and KPIs
-- Identified trends in product categories and revenue
+- Built an interactive dashboard to track KPIs like total sales, revenue, and product performance  
+- Created visualizations for sales trends, category analysis, and regional insights  
+- Used Power Query for data cleaning and DAX for calculated measures
 👉 [View Project](https://github.com/praveenadharshini-t/supermarket-sales-dashboard-powerbi)
 
 ## 🛠️ Skills

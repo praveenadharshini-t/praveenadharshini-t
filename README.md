@@ -5,6 +5,18 @@ I build data-driven solutions using SQL, Python, and Power BI to analyze dataset
 
 
 ## 🚀 Projects
+## Customer Churn Analysis (Telecom)
+- Identified a high-risk customer segment (Fiber Optic + month-to-month) contributing ~27% of customers and ~160K in revenue
+- Found ~59% churn rate in this segment, with majority churn occurring in the first 0–6 months
+- Discovered key churn drivers:
+- Early lifecycle drop-off
+- Contract type impact
+- Price–value mismatch in premium services
+
+🔗 Project Link:
+https://github.com/praveenadharshini-t/telecom-customer-churn-analysis
+
+
 ### 📊 Supermarket Sales Dashboard (Power BI)
 - Built an interactive dashboard to track KPIs like total sales, revenue, and product performance  
 - Created visualizations for sales trends, category analysis, and regional insights  

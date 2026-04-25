@@ -12,7 +12,7 @@ I build data-driven solutions using SQL, Python, and Power BI to analyze dataset
 - Early lifecycle drop-off
 - Contract type impact
 - Price–value mismatch in premium services
-👉 [View Project] (https://github.com/praveenadharshini-t/telecom-customer-churn-analysis)
+👉 [View Project](https://github.com/praveenadharshini-t/telecom-customer-churn-analysis)
 
 
 ### 📊 Supermarket Sales Dashboard (Power BI)
